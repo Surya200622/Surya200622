@@ -3,22 +3,18 @@
 <!-- ========================================================= -->
 
 <!-- Animated Header -->
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:ff8a00,100:ff7a00&height=150&section=header&text=SURYACS&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <!-- Ensure this image is uploaded to your repository -->
   <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS - Full Stack Web Solutions" width="250" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Creative+Web+Designer;React.js+%7C+Next.js+%7C+Django+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products" alt="Typing Animation" />
-</p>
-
-<p align="center">
+  <br><br>
   <img src="https://komarev.com/ghpvc/?username=Surya200622&label=PROFILE+VIEWS&color=FF7A00&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
