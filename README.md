@@ -155,7 +155,7 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 
 <p align="center">
   <!-- Ensure this logo is uploaded to your repository in the assets folder -->
-  <img src="./assets/suryacs-logo.png" alt="SURYACS Web Solutions" width="180" />
+  <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS Web Solutions" width="180" />
 </p> 
 <p align="center"><b>Full Stack Web Solutions</b></p>
 
