@@ -85,9 +85,11 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 <p align="center"><b>MySQL • SQLite • Supabase • Turso</b></p>
 
 ### 🛠️ Tools & Platforms
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,vercel,cloudinary" alt="GitHub Vercel Cloudinary" />
+  <img src="https://skillicons.dev/icons?i=github,vercel" alt="GitHub Vercel" />
   <img src="https://img.shields.io/badge/Google%20Business%20Profile-FF7A00?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
+  <img src="https://img.shields.io/badge/Cloudinary-FF7A00?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p> 
 <p align="center"><b>GitHub • Vercel • Google Business Profile • Cloudinary</b></p>
 
