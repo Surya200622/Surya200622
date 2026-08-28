@@ -18,9 +18,9 @@
 
 ---
 
-# 👋 Hi, I'm Surya CS
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" /> Hi, I'm Surya CS
 
-### 💻 Full-Stack Developer | 🎨 Creative Designer | 🚀 Web Solutions Builder
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" /> Full-Stack Developer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" alt="Palette" width="25" /> Creative Designer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Web Solutions Builder
 
 I'm **Surya CS**, a Full-Stack Developer and Creative Designer passionate about building modern, responsive, user-friendly, and business-focused web applications.
 
@@ -28,37 +28,37 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 
 ---
 
-## 🙋‍♂️ About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> About Me
 
-*   💻 Full-Stack Web Developer
-*   🎨 Creative Web Designer
-*   🐍 Python & Django Developer
-*   ⚛️ React.js & Next.js Developer
-*   🟢 Node.js & Express.js Developer
-*   🗄️ Database & Backend Developer
-*   🔌 REST API Developer
-*   📱 Responsive Web Application Developer
-*   🚀 Production Deployment & Hosting
-*   💼 Open to freelance projects, collaborations, and career opportunities
-*   🎯 Interested in building real-world digital solutions
-
----
-
-## 🚀 What I Do
-
-*   🌐 Business Websites
-*   🛒 E-Commerce Websites
-*   📊 Dashboards & Management Systems
-*   ⚙️ Custom Web Applications
-*   🔐 Authentication & Authorization
-*   🔌 REST API Development
-*   🎨 Responsive UI Development
-*   🚀 Web Deployment & Hosting
-*   📍 Google Business Profile Solutions
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 💻 Full-Stack Web Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🎨 Creative Web Designer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🐍 Python & Django Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> ⚛️ React.js & Next.js Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🟢 Node.js & Express.js Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🗄️ Database & Backend Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🔌 REST API Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 📱 Responsive Web Application Developer
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🚀 Production Deployment & Hosting
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 💼 Open to freelance projects, collaborations, and career opportunities
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🎯 Interested in building real-world digital solutions
 
 ---
 
-## 🧑‍💻 Skills & Technologies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" /> What I Do
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🌐 Business Websites
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🛒 E-Commerce Websites
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 📊 Dashboards & Management Systems
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> ⚙️ Custom Web Applications
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🔐 Authentication & Authorization
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🔌 REST API Development
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🎨 Responsive UI Development
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🚀 Web Deployment & Hosting
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 📍 Google Business Profile Solutions
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Skills & Technologies
 
 ### 💻 Languages
 <p align="center"> 
@@ -81,7 +81,6 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 <p align="center"><b>MySQL • SQLite • Supabase • Turso</b></p>
 
 ### 🛠️ Tools & Platforms
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vercel" alt="GitHub Vercel" />
   <img src="https://img.shields.io/badge/Google%20Business%20Profile-FF7A00?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
@@ -89,7 +88,7 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 </p> 
 <p align="center"><b>GitHub • Vercel • Google Business Profile • Cloudinary</b></p>
 
-### 🧠 Core Concepts
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="25" /> Core Concepts
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-FF7A00?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Responsive%20Web%20Design-FF7A00?style=for-the-badge" alt="Responsive Web Design" />
@@ -98,7 +97,7 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
   <img src="https://img.shields.io/badge/MVC%20%2F%20MVT%20Architecture-FF7A00?style=for-the-badge" alt="MVC MVT Architecture" />
 </p>
 
-### 🤝 Soft Skills
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" /> Soft Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-FF7A00?style=for-the-badge" alt="Problem Solving" />
   <img src="https://img.shields.io/badge/Communication-FF7A00?style=for-the-badge" alt="Communication" />
@@ -110,15 +109,33 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 
 ---
 
-### 🔥 GitHub Streak
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> GitHub Analytics
+
+<p align="center">
+  <!-- GitHub Trophies Added Here -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Surya200622&column=6&theme=transparent&title_color=FF7A00&text_color=8B949E&icon_color=FF7A00&no-bg=true&no-frame=true" alt="Surya's Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya200622&show_icons=true&theme=transparent&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=8B949E&rank_icon=github" width="49%" alt="Surya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya200622&layout=compact&theme=transparent&hide_border=true&title_color=FF7A00&text_color=8B949E&langs_count=8" width="49%" alt="Top Languages" />
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya200622&theme=transparent&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=8B949E&dates=8B949E" width="70%" alt="GitHub Streak" />
 </p>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" /> Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya200622&bg_color=transparent&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
+</p>
+
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" /> Featured Projects
 
 | 🏥 Dental Experts | 🛍️ Cipher Apparel |
 | :--- | :--- |
@@ -138,7 +155,7 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 
 ---
 
-## 💼 SURYACS Web Solutions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" /> SURYACS Web Solutions
 
 <p align="center">
   <!-- Ensure this logo is uploaded to your repository in the assets folder -->
@@ -149,15 +166,15 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 SURYACS Web Solutions focuses on building modern websites and custom web applications for businesses, organizations, and individuals.
 
 **💻 Services:**
-*   🌐 Business Websites
-*   🛒 E-Commerce Websites
-*   📱 Responsive Web Applications
-*   📊 Dashboard Systems
-*   ⚙️ Custom Web Applications
-*   🔐 Authentication Systems
-*   🔌 REST API Development
-*   📍 Google Business Profile Solutions
-*   🚀 Deployment & Hosting
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🌐 Business Websites
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🛒 E-Commerce Websites
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 📱 Responsive Web Applications
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 📊 Dashboard Systems
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> ⚙️ Custom Web Applications
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🔐 Authentication Systems
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🔌 REST API Development
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 📍 Google Business Profile Solutions
+<br><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Orange%20Circle.png" alt="dot" width="15"/> 🚀 Deployment & Hosting
 
 <p align="center"> 
   <a href="https://suryacs-websolutions.vercel.app/">
@@ -167,7 +184,7 @@ SURYACS Web Solutions focuses on building modern websites and custom web applica
 
 ---
 
-## 🧠 Currently Learning & Improving
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd" width="30" /> Currently Learning & Improving
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=650&lines=Improving+Full-Stack+Development;Building+Scalable+Web+Applications;Learning+Modern+Web+Architecture;Improving+UI%2FUX+Design;Building+Real-World+Projects" alt="Currently Learning" />
@@ -181,7 +198,7 @@ I focus on understanding the complete development lifecycle, from designing an i
 
 ---
 
-## 🐍 My Contributions
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> My Contributions
 
 <p align="center"> 
   <picture>
@@ -194,7 +211,7 @@ I focus on understanding the complete development lifecycle, from designing an i
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="30" /> Connect With Me
 
 <p align="center"> 
   <a href="https://suryacs-websolutions.vercel.app/">
@@ -225,7 +242,7 @@ I focus on understanding the complete development lifecycle, from designing an i
   <b>Think → Design → Develop → Test → Deploy → Improve</b>
 </p>
 
-## 🚀 Let's Build Something Together
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Let's Build Something Together
 
 <p align="center">
   Have an idea for a website or web application?<br>
