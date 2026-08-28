@@ -2,7 +2,13 @@
 <!--                     SURYACS PROFILE                       -->
 <!-- ========================================================= -->
 
+<!-- Animated Header -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:ff8a00,100:ff7a00&height=150&section=header&text=SURYACS&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" alt="Header" />
+</p>
+
+<p align="center">
+  <!-- Ensure this image is uploaded to your repository -->
   <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS - Full Stack Web Solutions" width="300" />
 </p>
 
@@ -74,14 +80,14 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase" alt="MySQL SQLite Supabase" />
-  <img src="https://img.shields.io/badge/Turso-000000?style=for-the-badge" alt="Turso" />
+  <img src="https://img.shields.io/badge/Turso-FF7A00?style=for-the-badge" alt="Turso" />
 </p> 
 <p align="center"><b>MySQL • SQLite • Supabase • Turso</b></p>
 
 ### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,vercel,cloudinary" alt="GitHub Vercel Cloudinary" />
-  <img src="https://img.shields.io/badge/Google%20Business%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
+  <img src="https://img.shields.io/badge/Google%20Business%20Profile-FF7A00?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
 </p> 
 <p align="center"><b>GitHub • Vercel • Google Business Profile • Cloudinary</b></p>
 
@@ -96,12 +102,12 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 
 ### 🤝 Soft Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Problem%20Solving-1F1F1F?style=for-the-badge" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Communication-1F1F1F?style=for-the-badge" alt="Communication" />
-  <img src="https://img.shields.io/badge/Adaptability-1F1F1F?style=for-the-badge" alt="Adaptability" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF7A00?style=for-the-badge" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Communication-FF7A00?style=for-the-badge" alt="Communication" />
+  <img src="https://img.shields.io/badge/Adaptability-FF7A00?style=for-the-badge" alt="Adaptability" />
   <br><br>
-  <img src="https://img.shields.io/badge/Creativity-1F1F1F?style=for-the-badge" alt="Creativity" />
-  <img src="https://img.shields.io/badge/Team%20Collaboration-1F1F1F?style=for-the-badge" alt="Team Collaboration" />
+  <img src="https://img.shields.io/badge/Creativity-FF7A00?style=for-the-badge" alt="Creativity" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-FF7A00?style=for-the-badge" alt="Team Collaboration" />
 </p>
 
 ---
@@ -148,6 +154,7 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 ## 💼 SURYACS Web Solutions
 
 <p align="center">
+  <!-- Ensure this logo is uploaded to your repository in the assets folder -->
   <img src="./assets/suryacs-logo.png" alt="SURYACS Web Solutions" width="180" />
 </p> 
 <p align="center"><b>Full Stack Web Solutions</b></p>
@@ -191,6 +198,7 @@ I focus on understanding the complete development lifecycle, from designing an i
 
 <p align="center"> 
   <picture>
+    <!-- Note: This requires a GitHub Action to generate the SVGs into the /output/ directory -->
     <source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
     <img src="./output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
