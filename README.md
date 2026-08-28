@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Ensure this image is uploaded to your repository -->
-  <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS - Full Stack Web Solutions" width="200" />
+  <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS - Full Stack Web Solutions" width="250" />
 </p>
 
 <p align="center">
@@ -233,7 +233,7 @@ I focus on understanding the complete development lifecycle, from designing an i
   Have an idea for a website or web application?<br>
   Let's turn it into reality. 🚀
   <br><br>
-  <a href="https://suryacs-websolutions.vercel.app/">
+  <a href="https://suryacs-websolutions.vercel.app/calculator">
     <img src="https://img.shields.io/badge/START%20A%20PROJECT-FF7A00?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project" />
   </a> 
 </p>
