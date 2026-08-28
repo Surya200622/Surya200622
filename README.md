@@ -1,84 +1,367 @@
-# Hi, I'm Surya CS 👋
+<!-- ========================================================= -->
+<!--                     SURYACS PROFILE                       -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Creative+Designer;Tech+Enthusiast" alt="Typing SVG" />
-</p>
-
----
-
-### 🙋‍♂️ About Me
-I am a passionate **Full-Stack Developer** and **Creative Designer** dedicated to building visually stunning, highly functional, and user-friendly digital experiences. I love bridging the gap between robust backend logic and elegant user interfaces.
-
-- 💼 **Available for:** Freelance projects, collaborations, and full-time opportunities.
-- 🌐 **My Portfolio:** [suryacs.is-a.dev](https://suryacs.is-a.dev)
-- 🚀 **Goal:** Creating impactful web applications that solve real-world problems.
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://suryacs.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/suryacs22/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.instagram.com/suryacs.is_a.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-  <a href="mailto:cssurya2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Frontend Skills
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="Frontend Skills" />
-  </a>
-</p>
-
-#### ⚙️ Backend, Databases & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,nodejs,express,mysql,github,vscode,vercel" alt="Backend and Tools" />
-  </a>
-</p>
-
----
-
-### 🚀 Projects
-
-Here are some of the projects I have designed and developed:
-
-* 🏥 **[DentalExperts](https://suryacs.pythonanywhere.com/)** - Professional dentistry platform and clinic management.
-* ✍️ **[Blogcraft](https://blogcraft.pythonanywhere.com/)** - A dynamic blog platform designed for seamless content publishing.
-* 📊 **[Attendance & Salary Calculator](https://attendance-calculator-dashboard.vercel.app/)** - An intuitive dashboard for managing attendance tracking and payroll calculations.
-* 🛍️ **[CipherApparel E-Commerce](https://cipher-apparel.vercel.app/)** - Modern e-commerce storefront with sleek styling and responsive design.
-* 🤖 **[Jarvis AI](https://jarvis-official.vercel.app/)** - An interactive Web-based Personal Assistant interface.
-* 🍳 **[Spice Kitchen](https://spice-kitchen-veg-nonveg.vercel.app/)** - A delicious veg & non-veg culinary web app.
-* 💳 **[Point of Sales & Billing System](https://restaurant-pos-frontend-steel.vercel.app/)** - An efficient POS system tailored for restaurant billing management.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya200622&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Surya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya200622&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img
+    src="./assets/suryacs-logo.png"
+    alt="SURYACS - Full Stack Web Solutions"
+    width="300"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya200622&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2500&pause=900&color=FF7A00&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Creative+Web+Designer;React.js+%7C+Next.js+%7C+Django+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products"
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Surya200622&label=PROFILE+VIEWS&color=FF7A00&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
+# 👋 Hi, I'm Surya CS
+
+### 💻 Full-Stack Developer | 🎨 Creative Designer | 🚀 Web Solutions Builder
+
+I'm **Surya CS**, a Full-Stack Developer and Creative Designer passionate about building modern, responsive, user-friendly and business-focused web applications.
+
+I enjoy combining **frontend development, backend engineering, databases and UI design** to turn ideas into practical digital products.
+
+---
+
+## 🙋‍♂️ About Me
+
+- 💻 Full-Stack Web Developer
+- 🎨 Creative Web Designer
+- 🐍 Python & Django Developer
+- ⚛️ React.js & Next.js Developer
+- 🟢 Node.js & Express.js Developer
+- 🗄️ Database & Backend Developer
+- 🔌 REST API Developer
+- 📱 Responsive Web Application Developer
+- 🚀 Production Deployment & Hosting
+- 💼 Open to freelance projects, collaborations and career opportunities
+- 🎯 Interested in building real-world digital solutions
+
+---
+
+## 🚀 What I Do
+
+```text
+🌐 Business Websites
+🛒 E-Commerce Websites
+📊 Dashboards & Management Systems
+⚙️ Custom Web Applications
+🔐 Authentication & Authorization
+🔌 REST API Development
+🎨 Responsive UI Development
+🚀 Web Deployment & Hosting
+📍 Google Business Profile Solutions
+
+🧑‍💻 Skills & Technologies
+💻 Languages
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" /> </p> <p align="center">
+
+<img src="https://img.shields.io/badge/SQL-FF7A00?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
+</p> <p align="center"> <b>HTML • CSS • JavaScript • SQL</b> </p>
+⚛️ Frameworks & Libraries
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Surya200622&color=blue&style=flat-square" alt="Visitor Counter" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,bootstrap,tailwind" alt="React Next.js Node.js Express Django Bootstrap Tailwind" />
+
+</p> <p align="center"> <b> React.js • Next.js • Node.js • Express.js • Django • Bootstrap • Tailwind CSS </b> </p>
+🗄️ Databases
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase" alt="MySQL SQLite Supabase" />
+
+</p> <p align="center">
+
+<img src="https://img.shields.io/badge/Turso-000000?style=for-the-badge" alt="Turso" />
+
+</p> <p align="center"> <b>MySQL • SQLite • Supabase • Turso</b> </p>
+🛠️ Tools & Platforms
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=github,vercel,cloudinary" alt="GitHub Vercel Cloudinary" />
+
+</p> <p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Business%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Business Profile" />
+
+</p> <p align="center"> <b>GitHub • Vercel • Google Business Profile • Cloudinary</b> </p>
+🧠 Core Concepts
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20APIs-FF7A00?style=for-the-badge" alt="REST APIs" />
+
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-FF7A00?style=for-the-badge" alt="Responsive Web Design" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-FF7A00?style=for-the-badge" alt="Authentication and Authorization" />
+
+<img src="https://img.shields.io/badge/MVC%20%2F%20MVT%20Architecture-FF7A00?style=for-the-badge" alt="MVC MVT Architecture" />
+
 </p>
+🤝 Soft Skills
+<p align="center">
+
+<img src="https://img.shields.io/badge/Problem%20Solving-1F1F1F?style=for-the-badge" alt="Problem Solving" />
+
+<img src="https://img.shields.io/badge/Communication-1F1F1F?style=for-the-badge" alt="Communication" />
+
+<img src="https://img.shields.io/badge/Adaptability-1F1F1F?style=for-the-badge" alt="Adaptability" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Creativity-1F1F1F?style=for-the-badge" alt="Creativity" />
+
+<img src="https://img.shields.io/badge/Team%20Collaboration-1F1F1F?style=for-the-badge" alt="Team Collaboration" />
+
+</p>
+📊 GitHub Analytics
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Surya200622&show_icons=true&theme=transparent&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=8B949E&rank_icon=github" width="49%" alt="Surya's GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya200622&layout=compact&theme=transparent&hide_border=true&title_color=FF7A00&text_color=8B949E&langs_count=8" width="49%" alt="Top Languages" />
+
+</p>
+🔥 GitHub Streak
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya200622&theme=transparent&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=8B949E&dates=8B949E" width="70%" alt="GitHub Streak" />
+
+</p>
+📈 Contribution Activity
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya200622&bg_color=00000000&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
+
+</p>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top">
+🏥 DentalExperts
+
+A professional dental platform and clinic management project.
+
+Technologies
+Python
+Django
+HTML
+CSS
+JavaScript
+
+🔗 View Project
+
+</td> <td width="50%" valign="top">
+🛍️ Cipher Apparel
+
+A modern e-commerce storefront focused on responsive design and product presentation.
+
+Technologies
+Django
+JavaScript
+CSS
+Responsive Design
+
+🔗 View Project
+
+</td> </tr> <tr> <td width="50%" valign="top">
+🤖 JARVIS AI
+
+A web-based personal assistant interface designed for AI-powered interaction.
+
+Technologies
+HTML
+CSS
+JavaScript
+AI
+
+🔗 View Project
+
+</td> <td width="50%" valign="top">
+🍳 Spice Kitchen
+
+A modern culinary web application featuring vegetarian and non-vegetarian food content.
+
+Technologies
+React
+JavaScript
+CSS
+Responsive UI
+
+🔗 View Project
+
+</td> </tr> <tr> <td width="50%" valign="top">
+📊 Attendance & Salary Calculator
+
+An interactive dashboard for attendance tracking and salary calculations.
+
+Technologies
+React
+JavaScript
+Dashboard UI
+Vercel
+
+🔗 View Project
+
+</td> <td width="50%" valign="top">
+💳 Restaurant POS System
+
+A point-of-sale and billing management system designed for restaurant operations.
+
+Technologies
+React
+JavaScript
+Dashboard
+Billing System
+
+🔗 View Project
+
+</td> </tr> <tr> <td width="50%" valign="top">
+✍️ Blogcraft
+
+A dynamic blogging platform designed for content publishing and management.
+
+Technologies
+Python
+Django
+HTML
+CSS
+JavaScript
+
+🔗 View Project
+
+</td> <td width="50%" valign="top">
+🌐 Portfolio
+
+My personal developer portfolio showcasing my skills, projects and services.
+
+Technologies
+Next.js
+React
+JavaScript
+Tailwind CSS
+
+🔗 Visit Portfolio
+
+</td> </tr> </table>
+💼 SURYACS Web Solutions
+<p align="center">
+
+<img src="./assets/suryacs-logo.png" alt="SURYACS Web Solutions" width="180" />
+
+</p> <p align="center">
+Full Stack Web Solutions
+</p>
+
+SURYACS Web Solutions focuses on building modern websites and custom web applications for businesses, organizations and individuals.
+
+💻 Services
+🌐 Business Websites
+🛒 E-Commerce Websites
+📱 Responsive Web Applications
+📊 Dashboard Systems
+⚙️ Custom Web Applications
+🔐 Authentication Systems
+🔌 REST API Development
+📍 Google Business Profile Solutions
+🚀 Deployment & Hosting
+<p align="center"> <a href="https://suryacs-websolutions.vercel.app/">
+
+<img src="https://img.shields.io/badge/VISIT%20SURYACS%20WEB%20SOLUTIONS-FF7A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit SURYACS Web Solutions" />
+
+</a> </p>
+🧠 Currently Learning & Improving
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF7A00&center=true&vCenter=true&width=650&lines=Improving+Full-Stack+Development;Building+Scalable+Web+Applications;Learning+Modern+Web+Architecture;Improving+UI%2FUX+Design;Building+Real-World+Projects" alt="Currently Learning" />
+
+</p>
+🎯 My Development Focus
+Frontend
+   ↓
+Modern UI
+   ↓
+Responsive Experience
+   ↓
+Backend Architecture
+   ↓
+REST APIs
+   ↓
+Database Design
+   ↓
+Authentication
+   ↓
+Deployment
+   ↓
+Production Application
+
+I focus on understanding the complete development lifecycle, from designing an interface to developing the backend, connecting databases, implementing authentication and deploying the final application.
+
+🐍 My Contributions
+<p align="center"> <picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="./output/github-contribution-grid-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)" srcset="./output/github-contribution-grid-snake.svg" />
+
+<img src="./output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+
+</picture> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://suryacs-websolutions.vercel.app/">
+
+<img src="https://img.shields.io/badge/Portfolio-FF7A00?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+
+</a> <a href="https://github.com/Surya200622">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+</a> <a href="https://www.linkedin.com/in/suryacs22/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+</a> <a href="https://www.instagram.com/suryacs.is_a_dev/">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+</a> <a href="mailto:cssurya2006@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+</a> </p>
+💡 Developer Philosophy
+<p align="center">
+"Build something useful. Make it beautiful. Make it scalable."
+</p> <p align="center">
+Think → Design → Develop → Test → Deploy → Improve
+</p>
+🚀 Let's Build Something Together
+<p align="center">
+Have an idea for a website or web application?
+Let's turn it into reality. 🚀
+<br> <a href="https://suryacs-websolutions.vercel.app/">
+
+<img src="https://img.shields.io/badge/START%20A%20PROJECT-FF7A00?style=for-the-badge&logo=rocket&logoColor=white" alt="Start a Project" />
+
+</a> </p>
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:ff8a00,100:ff7a00&height=120&section=footer&animation=twinkling" width="100%" alt="Animated Footer" />
+
+</p> <p align="center">
+
+<b>© 2026 Surya CS • Built with ❤️ and code</b>
+
+</p> ```
