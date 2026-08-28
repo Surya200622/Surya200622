@@ -116,24 +116,26 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Surya200622&show_icons=true&theme=transparent&hide_border=true&title_color=FF7A00&icon_color=FF7A00&text_color=8B949E&rank_icon=github" width="49%" alt="Surya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya200622&layout=compact&theme=transparent&hide_border=true&title_color=FF7A00&text_color=8B949E&langs_count=8" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya200622&layout=compact&theme=transparent&hide_border=true&title_color=FF7A00&text_color=8B949E&langs_count=8" width="49%" alt="Top Languages" />
 </p>
 
 ### 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya200622&theme=transparent&hide_border=true&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&sideLabels=8B949E&dates=8B949E" width="70%" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya200622&bg_color=00000000&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya200622&bg_color=transparent&color=FF7A00&line=FF7A00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🏥 DentalExperts | 🛍️ Cipher Apparel |
+| 🏥 Dental Experts | 🛍️ Cipher Apparel |
 | :--- | :--- |
 | A professional dental platform and clinic management project.<br><br>**Technologies:** Python, Django, HTML, CSS, JavaScript<br><br>[🔗 View Project](https://suryacs.pythonanywhere.com/) | A modern e-commerce storefront focused on responsive design and product presentation.<br><br>**Technologies:** Django, JavaScript, CSS, Responsive Design<br><br>[🔗 View Project](https://cipher-apparel.vercel.app/) |
 
