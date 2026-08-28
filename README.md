@@ -9,7 +9,7 @@
 
 <p align="center">
   <!-- Ensure this image is uploaded to your repository -->
-  <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS - Full Stack Web Solutions" width="300" />
+  <img src="Gemini_Generated_Image_7eech37ee.png" alt="SURYACS - Full Stack Web Solutions" width="200" />
 </p>
 
 <p align="center">
