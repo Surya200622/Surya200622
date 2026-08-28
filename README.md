@@ -88,7 +88,7 @@ I enjoy combining **frontend development, backend engineering, databases, and UI
 </p> 
 <p align="center"><b>GitHub • Vercel • Google Business Profile • Cloudinary</b></p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20and%20body/Brain.png" alt="Brain" width="25" /> Core Concepts
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Yin%20Yang.png" alt="Yin Yang" width="25" /> Core Concepts
 <p align="center">
   <img src="https://img.shields.io/badge/REST%20APIs-FF7A00?style=for-the-badge" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Responsive%20Web%20Design-FF7A00?style=for-the-badge" alt="Responsive Web Design" />
