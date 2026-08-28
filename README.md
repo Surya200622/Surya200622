@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="./assets/suryacs-logo.png"
+    src="Gemini_Generated_Image_7eech37ee.png"
     alt="SURYACS - Full Stack Web Solutions"
     width="300"
   />
